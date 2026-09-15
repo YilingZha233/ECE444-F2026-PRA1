@@ -12,3 +12,7 @@
 
 ![GitHub commit screenshot](pull_request_merge1.png)
 ![GitHub commit screenshot](pull_request_merge2.png)
+
+### UtilsTests commits screenshot
+
+![GitHub commit screenshot](utilstest_screenshot.png)
